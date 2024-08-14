@@ -7,9 +7,9 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/NdoleStudio/lemonsqueezy-go/internal/helpers"
+	"github.com/Genez-io/lemonsqueezy-go/internal/helpers"
 
-	"github.com/NdoleStudio/lemonsqueezy-go/internal/stubs"
+	"github.com/Genez-io/lemonsqueezy-go/internal/stubs"
 )
 
 func TestDiscountsService_Create(t *testing.T) {
