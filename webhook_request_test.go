@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/Genez-io/lemonsqueezy-go/internal/stubs"
+	"github.com/NdoleStudio/lemonsqueezy-go/internal/stubs"
 	"github.com/stretchr/testify/assert"
 )
 

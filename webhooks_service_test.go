@@ -5,11 +5,11 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/Genez-io/lemonsqueezy-go/internal/helpers"
+	"github.com/NdoleStudio/lemonsqueezy-go/internal/helpers"
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/Genez-io/lemonsqueezy-go/internal/stubs"
+	"github.com/NdoleStudio/lemonsqueezy-go/internal/stubs"
 )
 
 func TestWebhooksService_Verify(t *testing.T) {
